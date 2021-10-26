@@ -1,5 +1,6 @@
 # CRUD ElectronJS
-CRUD básico en Electron JS
+
+---
 
 Proyecto con node, bootstrap y [Electron](https://www.electronjs.org/).
 
