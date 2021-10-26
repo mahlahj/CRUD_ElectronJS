@@ -13,10 +13,14 @@ Asegúrate de tener instalado y correctamente configurado [XAMPP](https://www.ap
 La página NO recargará al hacer alguna edición a la misma.
 NO MUESTRA errores en consola, debes abrir las herramientas de desarrollador [CTRL + SHIFT + i].
 
+---
+
 ### CRUD
 
 Se pueden realizar las 4 operaciones básicas asociadas a dicho acrónimo.
-Si te gusta, puedes hacer fork y mejorarlo.\
+Si te gusta, puedes hacer fork y mejorarlo.
+
+---
 
 ### Deployment a Github-Pages
 
